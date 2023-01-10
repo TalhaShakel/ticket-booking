@@ -1,0 +1,22 @@
+com.example.tick.app-jetified-play-services-base-18.0.1-0 C:\Users\TALHA\.gradle\caches\transforms-3\1350f63264d064ace1bf4f26904fed39\transformed\jetified-play-services-base-18.0.1\res
+com.example.tick.app-jetified-window-1.0.0-beta04-1 C:\Users\TALHA\.gradle\caches\transforms-3\3973f91ccc774449988db44f93d8f0e1\transformed\jetified-window-1.0.0-beta04\res
+com.example.tick.app-jetified-play-services-basement-18.1.0-2 C:\Users\TALHA\.gradle\caches\transforms-3\5278653b5c81ed639e345f770092ab07\transformed\jetified-play-services-basement-18.1.0\res
+com.example.tick.app-browser-1.4.0-3 C:\Users\TALHA\.gradle\caches\transforms-3\5cd0b38faf727c17441ac7c1ec8820bd\transformed\browser-1.4.0\res
+com.example.tick.app-jetified-window-java-1.0.0-beta04-4 C:\Users\TALHA\.gradle\caches\transforms-3\7e66aea11ef1730a00d98fbaf6785479\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.tick.app-core-1.6.0-5 C:\Users\TALHA\.gradle\caches\transforms-3\8c37d37599f3feae46383c04553fe0ee\transformed\core-1.6.0\res
+com.example.tick.app-jetified-firebase-common-20.2.0-6 C:\Users\TALHA\.gradle\caches\transforms-3\b6db7536fd556c6b2694f195f7e94af3\transformed\jetified-firebase-common-20.2.0\res
+com.example.tick.app-jetified-annotation-experimental-1.1.0-7 C:\Users\TALHA\.gradle\caches\transforms-3\e16f34c7faa66ebde38721655c6509e8\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.tick.app-debug-8 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\android\app\src\debug\res
+com.example.tick.app-main-9 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\android\app\src\main\res
+com.example.tick.app-google-services-10 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\app\generated\res\google-services\debug
+com.example.tick.app-pngs-11 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\app\generated\res\pngs\debug
+com.example.tick.app-resValues-12 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\app\generated\res\resValues\debug
+com.example.tick.app-rs-13 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\app\generated\res\rs\debug
+com.example.tick.app-mergeDebugResources-14 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.tick.app-mergeDebugResources-15 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.tick.app-merged_res-16 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\app\intermediates\merged_res\debug
+com.example.tick.app-packaged_res-17 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.tick.app-packaged_res-18 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\firebase_analytics\intermediates\packaged_res\debug
+com.example.tick.app-packaged_res-19 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\firebase_auth\intermediates\packaged_res\debug
+com.example.tick.app-packaged_res-20 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\firebase_core\intermediates\packaged_res\debug
+com.example.tick.app-packaged_res-21 C:\Users\TALHA\Desktop\New folder\jan 2023 project\tick (1)\tick\build\fluttertoast\intermediates\packaged_res\debug

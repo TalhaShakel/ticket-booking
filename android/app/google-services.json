@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "819024102889",
+    "project_id": "tic444",
+    "storage_bucket": "tic444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819024102889:android:e848a1266f55f4bf06f778",
+        "android_client_info": {
+          "package_name": "com.example.tick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819024102889-bpnocaq4rq82sta9h3jnqci7f75ka2pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxF1GaA1s6o2n4qvqEe1zg9t_BE60VJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819024102889-bpnocaq4rq82sta9h3jnqci7f75ka2pn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819024102889-otd67b47h806kl15vl03c1p7sm0j4uve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tick"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
